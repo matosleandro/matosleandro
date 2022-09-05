@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá! Eu sou o Leandro Matos
 
-<!--
-**matosleandro/matosleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Atendimento ao Cliente (CX)
+- 🌱 Estudando Front-End
+- 📫 Contate-me no e-mail: leandro.matos@live.com
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/matosleandro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matosleandro&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosleandro&layout=compact&langs_count=16&theme=blueberry"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/matosleandro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:leandro.matos@live.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
+
+![snake gif](https://github.com/matosleandro/matosleandro/blob/output/github-contribution-grid-snake.svg)
