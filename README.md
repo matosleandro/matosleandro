@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leandro Matos
 
 - 🔭 Hoje trabalho com Atendimento ao Cliente (CX)
-- 🌱 Estou estudando para ser Front-End
+- 🌱 Estou estudando para ser Desenvolvedor Front-End
 - 📫 Contacte-me no e-mail: leandro.matos@live.com
 - 😄 Pronomes: ele/dele
 
