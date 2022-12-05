@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leandro Matos
 
-- 🔭 Hoje trabalho com Atendimento ao Cliente (CX)
+- 🔭 Hoje trabalho Inside Sales na Cuattro Live & Digital
 - 🌱 Estou estudando para ser Desenvolvedor Front-End
 - 📫 Contacte-me no e-mail: leandro.matos@live.com
 - 😄 Pronomes: ele/dele
