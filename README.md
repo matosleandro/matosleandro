@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho Inside Sales na Cuattro Live & Digital
 - 🌱 Estou estudando para ser Desenvolvedor Front-End
-- 📫 Contacte-me no e-mail: leandro.matos@live.com
+- 📫 Contacte-me no e-mail: leandro.matos@live.com | leandro.bm@codeaspiras.dev
 - 😄 Pronomes: ele/dele
 
   <div>
